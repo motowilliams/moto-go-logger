@@ -2,6 +2,6 @@ package logger
 
 import "fmt"
 
-func Log() {
+func Info() {
 	fmt.Println("hello world!")
 }
